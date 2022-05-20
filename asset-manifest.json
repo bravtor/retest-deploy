@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bravtor/retest-deploy/static/css/main.073c9b0a.css",
-    "main.js": "/bravtor/retest-deploy/static/js/main.57ff4ece.js",
+    "main.js": "/bravtor/retest-deploy/static/js/main.0ce59a76.js",
     "static/js/787.087742f3.chunk.js": "/bravtor/retest-deploy/static/js/787.087742f3.chunk.js",
     "static/media/logo.svg": "/bravtor/retest-deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bravtor/retest-deploy/index.html",
     "main.073c9b0a.css.map": "/bravtor/retest-deploy/static/css/main.073c9b0a.css.map",
-    "main.57ff4ece.js.map": "/bravtor/retest-deploy/static/js/main.57ff4ece.js.map",
+    "main.0ce59a76.js.map": "/bravtor/retest-deploy/static/js/main.0ce59a76.js.map",
     "787.087742f3.chunk.js.map": "/bravtor/retest-deploy/static/js/787.087742f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.57ff4ece.js"
+    "static/js/main.0ce59a76.js"
   ]
 }
